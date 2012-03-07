@@ -1,0 +1,54 @@
+img
+	// Set rules to fill background
+	min-height: 100%
+	min-width: 1024px
+
+	// Set up proportionate scaling
+	width: 101%
+	height: auto
+
+	// Set up positioning
+	position: fixed
+	top: 0
+	left: 0
+
+@media screen and (max-width: 1024px)
+	// Specific to this particular image
+	img
+		left: 50%
+		margin-left: -512px   // 50%
+		
+@media screen and (max-height: 1024px)
+	// Specific to this particular image
+	img
+		top: 50%
+		margin-top: -512px   // 50%
+		
+		
+.title
+	position: fixed	
+	top: 20%
+	width: 100%
+	height: 300px	
+	h1, blockquote
+		left: 80%
+		text-align: center
+	h1
+		letter-spacing: 4px
+		padding: 80px 0
+		color: #fff
+		font-family: Georgia
+		font-style: italic
+		font-size: 72pt
+		margin-left: 5px
+	blockquote
+		color: #F0F0F0
+		font-family: Georgia
+		font-style: italic
+		font-size: 20pt
+		margin-left: -30px
+		
+	
+	
+	
+#end
