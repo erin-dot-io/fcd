@@ -15,4 +15,4 @@
 /tmp
 
 # Ingnore SASS cache folder
-app/assets/stylesheets/.sass-cache/
+/app/assets/stylesheets/.sass-cache/
