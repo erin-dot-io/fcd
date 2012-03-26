@@ -6951,3 +6951,894 @@ Served asset /mocks.js - 304 Not Modified (0ms)
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-07 18:19:44 -0500
 Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-07 19:41:59 -0500
+  Processing by MocksController#index as HTML
+Rendered mocks/index.html.haml within layouts/application (0.1ms)
+Completed 200 OK in 8ms (Views: 7.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-07 19:41:59 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.css?body=1" for 127.0.0.1 at 2012-03-07 19:41:59 -0500
+Served asset /mocks.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-03-07 19:41:59 -0500
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-03-07 19:41:59 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.js?body=1" for 127.0.0.1 at 2012-03-07 19:41:59 -0500
+Served asset /mocks.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-03-07 19:41:59 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-07 19:41:59 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-26 16:53:51 -0400
+  Processing by MocksController#index as HTML
+Rendered mocks/index.html.haml within layouts/application (2.0ms)
+WARNING on line 95 of /Volumes/Content/Sites/fcd/app/assets/stylesheets/mocks.css.sass:
+This selector doesn't have any properties and will not be rendered.
+Compiled mocks.css  (38ms)  (pid 2342)
+Compiled application.css  (2ms)  (pid 2342)
+Completed 200 OK in 151ms (Views: 150.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-26 16:53:52 -0400
+Served asset /application.css - 200 OK (1ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-03-26 16:53:52 -0400
+Served asset /bootstrap.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/mocks.css?body=1" for 127.0.0.1 at 2012-03-26 16:53:52 -0400
+Served asset /mocks.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-03-26 16:53:52 -0400
+Served asset /jquery.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-03-26 16:53:52 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/mocks.js?body=1" for 127.0.0.1 at 2012-03-26 16:53:52 -0400
+Served asset /mocks.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-26 16:53:52 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-26 16:54:28 -0400
+  Processing by MocksController#index as HTML
+Rendered mocks/index.html.haml within layouts/application (0.1ms)
+WARNING on line 95 of /Volumes/Content/Sites/fcd/app/assets/stylesheets/mocks.css.sass:
+This selector doesn't have any properties and will not be rendered.
+Compiled mocks.css  (18ms)  (pid 2342)
+Compiled application.css  (2ms)  (pid 2342)
+Completed 200 OK in 52ms (Views: 51.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-26 16:54:28 -0400
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-03-26 16:54:28 -0400
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.css?body=1" for 127.0.0.1 at 2012-03-26 16:54:28 -0400
+Served asset /mocks.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-03-26 16:54:28 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-03-26 16:54:29 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-26 16:54:29 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.js?body=1" for 127.0.0.1 at 2012-03-26 16:54:29 -0400
+Served asset /mocks.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-26 16:54:42 -0400
+  Processing by MocksController#index as HTML
+Rendered mocks/index.html.haml within layouts/application (0.0ms)
+Completed 200 OK in 8ms (Views: 7.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-26 16:54:42 -0400
+Served asset /application.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-03-26 16:54:42 -0400
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.css?body=1" for 127.0.0.1 at 2012-03-26 16:54:42 -0400
+Served asset /mocks.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-03-26 16:54:42 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.js?body=1" for 127.0.0.1 at 2012-03-26 16:54:42 -0400
+Served asset /mocks.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-03-26 16:54:42 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-26 16:54:42 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-26 16:56:40 -0400
+  Processing by MocksController#index as HTML
+Rendered mocks/index.html.haml within layouts/application (0.1ms)
+Compiled mocks.css  (0ms)  (pid 2342)
+Compiled application.css  (1ms)  (pid 2342)
+Completed 200 OK in 17ms (Views: 16.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-26 16:56:40 -0400
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-03-26 16:56:40 -0400
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.css?body=1" for 127.0.0.1 at 2012-03-26 16:56:40 -0400
+Served asset /mocks.css - 200 OK (3ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-03-26 16:56:40 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-03-26 16:56:40 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.js?body=1" for 127.0.0.1 at 2012-03-26 16:56:40 -0400
+Served asset /mocks.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-26 16:56:40 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-26 16:58:27 -0400
+  Processing by MocksController#index as HTML
+Rendered mocks/index.html.haml within layouts/application (0.1ms)
+Compiled mocks.css  (0ms)  (pid 2342)
+WARNING on line 95 of /Volumes/Content/Sites/fcd/app/assets/stylesheets/mocks.css.sass:
+This selector doesn't have any properties and will not be rendered.
+Compiled mocks.css  (18ms)  (pid 2342)
+Compiled application.css  (2ms)  (pid 2342)
+Completed 200 OK in 38ms (Views: 37.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-26 16:58:28 -0400
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-03-26 16:58:28 -0400
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.css?body=1" for 127.0.0.1 at 2012-03-26 16:58:28 -0400
+Served asset /mocks.css - 200 OK (4ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-03-26 16:58:28 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-03-26 16:58:28 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.js?body=1" for 127.0.0.1 at 2012-03-26 16:58:28 -0400
+Served asset /mocks.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-26 16:58:28 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-26 16:58:43 -0400
+  Processing by MocksController#index as HTML
+Rendered mocks/index.html.haml within layouts/application (0.1ms)
+Compiled mocks.css  (0ms)  (pid 2342)
+WARNING on line 95 of /Volumes/Content/Sites/fcd/app/assets/stylesheets/mocks.css.sass:
+This selector doesn't have any properties and will not be rendered.
+Compiled mocks.css  (18ms)  (pid 2342)
+Compiled application.css  (2ms)  (pid 2342)
+Completed 200 OK in 60ms (Views: 59.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-26 16:58:43 -0400
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-03-26 16:58:43 -0400
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-03-26 16:58:43 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.css?body=1" for 127.0.0.1 at 2012-03-26 16:58:43 -0400
+Served asset /mocks.css - 200 OK (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-03-26 16:58:43 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.js?body=1" for 127.0.0.1 at 2012-03-26 16:58:43 -0400
+Served asset /mocks.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-26 16:58:43 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-26 18:26:16 -0400
+  Processing by MocksController#index as HTML
+Rendered mocks/index.html.haml within layouts/application (2.1ms)
+Compiled mocks.css  (0ms)  (pid 3674)
+WARNING on line 95 of /Volumes/Content/Sites/EDK/fcd/app/assets/stylesheets/mocks.css.sass:
+This selector doesn't have any properties and will not be rendered.
+Compiled mocks.css  (23ms)  (pid 3674)
+Compiled application.css  (2ms)  (pid 3674)
+Completed 200 OK in 381ms (Views: 380.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-26 18:26:17 -0400
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-03-26 18:26:17 -0400
+Served asset /bootstrap.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/mocks.css?body=1" for 127.0.0.1 at 2012-03-26 18:26:17 -0400
+Served asset /mocks.css - 200 OK (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-03-26 18:26:17 -0400
+Served asset /jquery.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-03-26 18:26:17 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/mocks.js?body=1" for 127.0.0.1 at 2012-03-26 18:26:17 -0400
+Served asset /mocks.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-26 18:26:17 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-26 18:58:50 -0400
+  Processing by MocksController#index as HTML
+Rendered mocks/index.html.haml within layouts/application (0.1ms)
+Completed 200 OK in 17ms (Views: 17.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-26 18:58:50 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-03-26 18:58:50 -0400
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-03-26 18:58:50 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-03-26 18:58:50 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.js?body=1" for 127.0.0.1 at 2012-03-26 18:58:50 -0400
+Served asset /mocks.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.css?body=1" for 127.0.0.1 at 2012-03-26 18:58:50 -0400
+Served asset /mocks.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-26 18:58:50 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-26 19:00:02 -0400
+  Processing by MocksController#index as HTML
+Rendered mocks/index.html.haml within layouts/application (2.0ms)
+Completed 200 OK in 10ms (Views: 9.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-26 19:00:02 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-03-26 19:00:02 -0400
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.css?body=1" for 127.0.0.1 at 2012-03-26 19:00:02 -0400
+Served asset /mocks.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-03-26 19:00:02 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.js?body=1" for 127.0.0.1 at 2012-03-26 19:00:02 -0400
+Served asset /mocks.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-03-26 19:00:02 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-26 19:00:02 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-26 19:00:20 -0400
+  Processing by MocksController#index as HTML
+Rendered mocks/index.html.haml within layouts/application (2.0ms)
+Completed 200 OK in 9ms (Views: 9.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-26 19:00:20 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-03-26 19:00:20 -0400
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.css?body=1" for 127.0.0.1 at 2012-03-26 19:00:20 -0400
+Served asset /mocks.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-03-26 19:00:20 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-03-26 19:00:20 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.js?body=1" for 127.0.0.1 at 2012-03-26 19:00:20 -0400
+Served asset /mocks.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-26 19:00:20 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-26 19:00:25 -0400
+  Processing by MocksController#index as HTML
+Rendered mocks/index.html.haml within layouts/application (2.1ms)
+Completed 200 OK in 10ms (Views: 9.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-26 19:00:25 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-03-26 19:00:25 -0400
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.css?body=1" for 127.0.0.1 at 2012-03-26 19:00:25 -0400
+Served asset /mocks.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-03-26 19:00:25 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-03-26 19:00:25 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.js?body=1" for 127.0.0.1 at 2012-03-26 19:00:25 -0400
+Served asset /mocks.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-26 19:00:25 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-26 19:00:50 -0400
+  Processing by MocksController#index as HTML
+Rendered mocks/index.html.haml within layouts/application (2.0ms)
+Completed 200 OK in 9ms (Views: 9.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-03-26 19:00:51 -0400
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-26 19:00:51 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.css?body=1" for 127.0.0.1 at 2012-03-26 19:00:51 -0400
+Served asset /mocks.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-03-26 19:00:51 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-03-26 19:00:51 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.js?body=1" for 127.0.0.1 at 2012-03-26 19:00:51 -0400
+Served asset /mocks.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-26 19:00:51 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-26 19:02:37 -0400
+  Processing by MocksController#index as HTML
+Rendered mocks/index.html.haml within layouts/application (0.1ms)
+Compiled mocks.css  (0ms)  (pid 3674)
+WARNING on line 98 of /Volumes/Content/Sites/EDK/fcd/app/assets/stylesheets/mocks.css.sass:
+This selector doesn't have any properties and will not be rendered.
+Compiled mocks.css  (22ms)  (pid 3674)
+Compiled application.css  (2ms)  (pid 3674)
+Completed 200 OK in 86ms (Views: 86.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-26 19:02:38 -0400
+Served asset /application.css - 200 OK (1ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-03-26 19:02:38 -0400
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.css?body=1" for 127.0.0.1 at 2012-03-26 19:02:38 -0400
+Served asset /mocks.css - 200 OK (4ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-03-26 19:02:38 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-03-26 19:02:38 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.js?body=1" for 127.0.0.1 at 2012-03-26 19:02:38 -0400
+Served asset /mocks.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-26 19:02:38 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-26 19:02:46 -0400
+  Processing by MocksController#index as HTML
+Rendered mocks/index.html.haml within layouts/application (0.1ms)
+Compiled mocks.css  (0ms)  (pid 3674)
+WARNING on line 98 of /Volumes/Content/Sites/EDK/fcd/app/assets/stylesheets/mocks.css.sass:
+This selector doesn't have any properties and will not be rendered.
+Compiled mocks.css  (19ms)  (pid 3674)
+Compiled application.css  (2ms)  (pid 3674)
+Completed 200 OK in 39ms (Views: 38.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-03-26 19:02:46 -0400
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-26 19:02:46 -0400
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/mocks.css?body=1" for 127.0.0.1 at 2012-03-26 19:02:46 -0400
+Served asset /mocks.css - 200 OK (4ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-03-26 19:02:46 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.js?body=1" for 127.0.0.1 at 2012-03-26 19:02:46 -0400
+Served asset /mocks.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-03-26 19:02:46 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-26 19:02:46 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-26 19:02:58 -0400
+  Processing by MocksController#index as HTML
+Rendered mocks/index.html.haml within layouts/application (0.1ms)
+Compiled mocks.css  (0ms)  (pid 3674)
+WARNING on line 96 of /Volumes/Content/Sites/EDK/fcd/app/assets/stylesheets/mocks.css.sass:
+This selector doesn't have any properties and will not be rendered.
+Compiled mocks.css  (18ms)  (pid 3674)
+Compiled application.css  (2ms)  (pid 3674)
+Completed 200 OK in 60ms (Views: 60.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-26 19:02:58 -0400
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-03-26 19:02:58 -0400
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-03-26 19:02:58 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-03-26 19:02:58 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.css?body=1" for 127.0.0.1 at 2012-03-26 19:02:58 -0400
+Served asset /mocks.css - 200 OK (1ms)
+
+
+Started GET "/assets/mocks.js?body=1" for 127.0.0.1 at 2012-03-26 19:02:58 -0400
+Served asset /mocks.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-26 19:02:58 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-26 19:03:11 -0400
+  Processing by MocksController#index as HTML
+Rendered mocks/index.html.haml within layouts/application (0.1ms)
+Compiled mocks.css  (0ms)  (pid 3674)
+WARNING on line 96 of /Volumes/Content/Sites/EDK/fcd/app/assets/stylesheets/mocks.css.sass:
+This selector doesn't have any properties and will not be rendered.
+Compiled mocks.css  (18ms)  (pid 3674)
+Compiled application.css  (2ms)  (pid 3674)
+Completed 200 OK in 38ms (Views: 37.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-26 19:03:12 -0400
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-03-26 19:03:12 -0400
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.css?body=1" for 127.0.0.1 at 2012-03-26 19:03:12 -0400
+Served asset /mocks.css - 200 OK (3ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-03-26 19:03:12 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-03-26 19:03:12 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.js?body=1" for 127.0.0.1 at 2012-03-26 19:03:12 -0400
+Served asset /mocks.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-26 19:03:12 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-26 19:03:19 -0400
+  Processing by MocksController#index as HTML
+Rendered mocks/index.html.haml within layouts/application (0.1ms)
+Compiled mocks.css  (0ms)  (pid 3674)
+WARNING on line 96 of /Volumes/Content/Sites/EDK/fcd/app/assets/stylesheets/mocks.css.sass:
+This selector doesn't have any properties and will not be rendered.
+Compiled mocks.css  (19ms)  (pid 3674)
+Compiled application.css  (2ms)  (pid 3674)
+Completed 200 OK in 62ms (Views: 62.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-26 19:03:19 -0400
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-03-26 19:03:19 -0400
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-03-26 19:03:19 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.js?body=1" for 127.0.0.1 at 2012-03-26 19:03:19 -0400
+Served asset /mocks.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.css?body=1" for 127.0.0.1 at 2012-03-26 19:03:19 -0400
+Served asset /mocks.css - 200 OK (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-03-26 19:03:19 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-26 19:03:19 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-26 19:03:37 -0400
+  Processing by MocksController#index as HTML
+Rendered mocks/index.html.haml within layouts/application (2.0ms)
+Completed 200 OK in 9ms (Views: 9.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-26 19:03:37 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-03-26 19:03:37 -0400
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-03-26 19:03:37 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.css?body=1" for 127.0.0.1 at 2012-03-26 19:03:37 -0400
+Served asset /mocks.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.js?body=1" for 127.0.0.1 at 2012-03-26 19:03:37 -0400
+Served asset /mocks.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-03-26 19:03:37 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-26 19:03:37 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-26 19:03:50 -0400
+  Processing by MocksController#index as HTML
+Rendered mocks/index.html.haml within layouts/application (0.1ms)
+Compiled mocks.css  (0ms)  (pid 3674)
+WARNING on line 96 of /Volumes/Content/Sites/EDK/fcd/app/assets/stylesheets/mocks.css.sass:
+This selector doesn't have any properties and will not be rendered.
+Compiled mocks.css  (19ms)  (pid 3674)
+Compiled application.css  (2ms)  (pid 3674)
+Completed 200 OK in 38ms (Views: 38.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-26 19:03:50 -0400
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-03-26 19:03:50 -0400
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.css?body=1" for 127.0.0.1 at 2012-03-26 19:03:50 -0400
+Served asset /mocks.css - 200 OK (3ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-03-26 19:03:50 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-03-26 19:03:50 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.js?body=1" for 127.0.0.1 at 2012-03-26 19:03:50 -0400
+Served asset /mocks.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-26 19:03:50 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-26 19:03:58 -0400
+  Processing by MocksController#index as HTML
+Rendered mocks/index.html.haml within layouts/application (0.1ms)
+Compiled mocks.css  (0ms)  (pid 3674)
+WARNING on line 96 of /Volumes/Content/Sites/EDK/fcd/app/assets/stylesheets/mocks.css.sass:
+This selector doesn't have any properties and will not be rendered.
+Compiled mocks.css  (19ms)  (pid 3674)
+Compiled application.css  (2ms)  (pid 3674)
+Completed 200 OK in 38ms (Views: 38.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-26 19:03:58 -0400
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-03-26 19:03:58 -0400
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.css?body=1" for 127.0.0.1 at 2012-03-26 19:03:58 -0400
+Served asset /mocks.css - 200 OK (2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-03-26 19:03:58 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-03-26 19:03:58 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.js?body=1" for 127.0.0.1 at 2012-03-26 19:03:58 -0400
+Served asset /mocks.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-26 19:03:58 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-26 19:04:04 -0400
+  Processing by MocksController#index as HTML
+Rendered mocks/index.html.haml within layouts/application (0.1ms)
+Compiled mocks.css  (0ms)  (pid 3674)
+WARNING on line 96 of /Volumes/Content/Sites/EDK/fcd/app/assets/stylesheets/mocks.css.sass:
+This selector doesn't have any properties and will not be rendered.
+Compiled mocks.css  (19ms)  (pid 3674)
+Compiled application.css  (2ms)  (pid 3674)
+Completed 200 OK in 39ms (Views: 38.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-26 19:04:05 -0400
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-03-26 19:04:05 -0400
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.css?body=1" for 127.0.0.1 at 2012-03-26 19:04:05 -0400
+Served asset /mocks.css - 200 OK (4ms)
+
+
+Started GET "/assets/mocks.js?body=1" for 127.0.0.1 at 2012-03-26 19:04:05 -0400
+Served asset /mocks.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-03-26 19:04:05 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-03-26 19:04:05 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-26 19:04:05 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-26 19:04:10 -0400
+  Processing by MocksController#index as HTML
+Rendered mocks/index.html.haml within layouts/application (0.1ms)
+Compiled mocks.css  (0ms)  (pid 3674)
+WARNING on line 96 of /Volumes/Content/Sites/EDK/fcd/app/assets/stylesheets/mocks.css.sass:
+This selector doesn't have any properties and will not be rendered.
+Compiled mocks.css  (19ms)  (pid 3674)
+Compiled application.css  (2ms)  (pid 3674)
+Completed 200 OK in 39ms (Views: 38.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-26 19:04:10 -0400
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-03-26 19:04:10 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-03-26 19:04:10 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.css?body=1" for 127.0.0.1 at 2012-03-26 19:04:10 -0400
+Served asset /mocks.css - 200 OK (3ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-03-26 19:04:10 -0400
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.js?body=1" for 127.0.0.1 at 2012-03-26 19:04:10 -0400
+Served asset /mocks.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-26 19:04:10 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-26 19:04:20 -0400
+  Processing by MocksController#index as HTML
+Rendered mocks/index.html.haml within layouts/application (0.1ms)
+Compiled mocks.css  (0ms)  (pid 3674)
+WARNING on line 96 of /Volumes/Content/Sites/EDK/fcd/app/assets/stylesheets/mocks.css.sass:
+This selector doesn't have any properties and will not be rendered.
+Compiled mocks.css  (18ms)  (pid 3674)
+Compiled application.css  (2ms)  (pid 3674)
+Completed 200 OK in 62ms (Views: 61.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-03-26 19:04:20 -0400
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/mocks.css?body=1" for 127.0.0.1 at 2012-03-26 19:04:20 -0400
+Served asset /mocks.css - 200 OK (5ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-03-26 19:04:20 -0400
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-03-26 19:04:20 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-03-26 19:04:20 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mocks.js?body=1" for 127.0.0.1 at 2012-03-26 19:04:20 -0400
+Served asset /mocks.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-03-26 19:04:20 -0400
+Served asset /application.js - 304 Not Modified (0ms)
